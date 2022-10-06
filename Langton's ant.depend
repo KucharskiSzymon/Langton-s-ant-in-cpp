@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1601121230 source:c:\users\szymon\desktop\semesrt4\gierki obiektowe\langton's ant\array.cpp
+	"array.h"
+
+1601121163 c:\users\szymon\desktop\semesrt4\gierki obiektowe\langton's ant\array.h
+	"cell.h"
+
+1601124441 c:\users\szymon\desktop\semesrt4\gierki obiektowe\langton's ant\cell.h
+
+1601124651 source:c:\users\szymon\desktop\semesrt4\gierki obiektowe\langton's ant\cell.cpp
+	<iostream>
+	"cell.h"
+
+1601124376 source:c:\users\szymon\desktop\semesrt4\gierki obiektowe\langton's ant\game.cpp
+	<iostream>
+	"game.h"
+
+1601124441 c:\users\szymon\desktop\semesrt4\gierki obiektowe\langton's ant\game.h
+	"array.h"
+
+1601128172 source:c:\users\szymon\desktop\semesrt4\gierki obiektowe\langton's ant\gametxt.cpp
+	<iostream>
+	"gameTXT.h"
+
+1601124441 c:\users\szymon\desktop\semesrt4\gierki obiektowe\langton's ant\gametxt.h
+	"game.h"
+	<iostream>
+	<fstream>
+	<windows.h>
+
+1601119449 source:c:\users\szymon\desktop\semesrt4\gierki obiektowe\langton's ant\main.cpp
+	"gameTXT.h"
+
